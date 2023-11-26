@@ -1,0 +1,58 @@
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:scroll;
+    color: red  ;
+}
+
+img{
+    position: relative;
+    top: 29px;
+    left: 47.5%;
+    width: 5%;
+    height: 69px;
+}
+
+div>.material-symbols-outlined{
+    position: relative;
+    left: 90px;
+    top: -48px;
+    font-size: 40px;
+    
+}
+
+i{
+    position: relative;
+    top:-94px;
+    left: 1340px;
+    margin: 13px;
+    font-size: 22px;
+}
+
+.link{
+    color: #FFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px;
+    position: relative;
+    left: 39.3%;
+    top: -65px;
+}
+
+.title{
+    font-family: 'Graduate', serif;
+    font-size: 85px; 
+    text-align: center;
+    font-weight: bold;
+
+    
+}
+
+.description{
+    font-family: 'Parisienne', cursive;
+    font-size: 40px; 
+    text-align: center;
+}
+
